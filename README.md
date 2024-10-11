@@ -25,8 +25,8 @@ Make sure you have the following installed:
 git clone https://github.com/ImenBenAmar/Machine_Learning.git
 
 ## Running the Project
--jupyter notebook
--google colab
+- jupyter notebook
+- google colab
 
 
 ## Built With
