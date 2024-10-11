@@ -31,10 +31,10 @@ git clone https://github.com/ImenBenAmar/Machine_Learning.git
 
 ## Built With
 
--Scikit-learn -- Machine Learning Library
--Pandas - Data ---Analysis Library
--Matplotlib -- Plotting Library
--Jupyter Notebook --Interactive Computing
+- Scikit-learn -- Machine Learning Library
+- Pandas - Data ---Analysis Library
+- Matplotlib -- Plotting Library
+- Jupyter Notebook --Interactive Computing
 
 
 ## For more project
