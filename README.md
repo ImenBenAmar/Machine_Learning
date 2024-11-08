@@ -1,8 +1,8 @@
-# Machine Learning for Beginners
+# Machine Learning Models
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  
 
-This project aims to help beginners understand machine learning concepts through practical examples of linear regression, multiple regression, and classification models.
+This project aims to understand machine learning concepts through practical examples of linear regression, multiple regression, and classification models.
 
 
 ## Getting Started
